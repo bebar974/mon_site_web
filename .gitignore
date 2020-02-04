@@ -1,5 +1,4 @@
 /.idea/
-tmp/todo.txt
 tmp/*
 *.xml
 *.txt
